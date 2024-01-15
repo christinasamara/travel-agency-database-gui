@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was developed as part of my academic coursework during my 5th semester at the Computer Engineering and Informatics Department at the University of Patras. It allowed me to gain a deeper understanding of the applications of Databases and GUIs.
+This project was developed as part of my academic coursework during my 5th semester at the Computer Engineering and Informatics Department at the University of Patras.
 
 ## Travel Agency Database README
 
